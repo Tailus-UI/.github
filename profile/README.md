@@ -1,6 +1,6 @@
-# Tailus v2 is coming soon ! ⌛️
+<h1 align="center"> Tailus v2 is <a href="https://5qotv9mbvdj.typeform.com/to/lOIROT5f?utm_source=waitlist&typeform"> coming soon ! ⌛️ </a> </h1>
 
-<img src="../cover.webp" alt="tailus cover">
+<img src="../v2cover.webp" alt="tailus cover">
 
 <!--
 
