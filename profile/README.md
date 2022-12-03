@@ -1,4 +1,4 @@
-<h1 align="center"> Tailus v2 ot now !  </h1>
+<h1 align="center"> Tailus v2 is now yours !  </h1>
 
 <p align="center">Redesigned blocks ✨, <br> dark mode support 🌓 🌙, <br> tailwind v3.1 support  <br> VS Code Snippets 🛠 <br> Modern templates <br> Boilerplates </p>
 <br>
