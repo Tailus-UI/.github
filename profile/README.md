@@ -1,7 +1,36 @@
-<h1 align="center"> Tailus v2 is now yours !  </h1>
-
-<p align="center">Redesigned blocks ✨, <br> dark mode support 🌓 🌙, <br> tailwind v3.1 support  <br> VS Code Snippets 🛠 <br> Modern templates <br> Boilerplates </p>
+<h1 align="center"> 🚨 Introducing Tailus UI React  </h1>
+<img src="https://github.com/Tailus-UI/tailus-ui-react/public/main-cover.wep" alt="tailus cover" />
+<p align="center">
+  Tailus UI React is built on a foundation of cutting-edge frontend tools, including Radix UI and Tailwindcss. Leveraging the power of   Tailus Themer, it offers intuitive theme customization, ensuring your designs seamlessly reflect your brand identity.
+</p>
 <br>
-<p align="center"> <a href="https://tailus.io"> Start using ! </a> </p>
+<p align="center"> <a href="https://beta.tailus.io/demo"> Try it now ! </a> </p>
 <br> <br>
-<img src="https://raw.githubusercontent.com/Tailus-UI/.github/main/v2cover.webp" alt="tailus cover" />
+
+Here's what sets Tailus UI React apart:
+
+* Out-of-the-box excellence: Pre-built, thoughtfully designed components, ready to be seamlessly integrated into your projects.
+
+* Accessibility first: Built with inclusivity at its core, ensuring your UIs are accessible to everyone.
+
+* Effortless customization: Tailor components to your specific needs with ease, achieving a pixel-perfect design.
+
+* Modern aesthetics: Elevate your user experience with sleek, modern interfaces that leave a lasting impression.
+
+* Dark mode versatility: Seamlessly switch between light and dark themes to cater to diverse preferences.
+
+* Extensive library: Explore a vast collection of component variations and real-world examples, sparking your creativity and accelerating your workflow.
+
+We're confident that Tailus UI React will become your go-to tool for crafting exceptional user experiences. Don't hesitate to reach out if you have any questions. We're here to support you every step of the way.
+
+## Documentation
+
+You can find the Tailus UI React documentation [on our website](https://beta.tailus.io/docs/introduction/).
+
+## Examples
+
+You can find the Tailus UI React examples [on our Demo page](https://beta.tailus.io/demo/).
+
+## Contribute 
+
+If you want to contribute to Tailus UI React, you can follow the [contributing guide](https://github.com/tailus-ui/tailus-ui-react/).
