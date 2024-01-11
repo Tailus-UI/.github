@@ -1,10 +1,10 @@
 <h1> 🚨 Introducing Tailus UI React  </h1>
-<img src="https://github.com/Tailus-UI/tailus-ui-react/public/main-cover.webp" alt="tailus cover" />
+<img src="https://github.com/Tailus-UI/tailus-ui-react/blob/main/public/main-cover.webp" alt="tailus cover" />
 <p>
   Tailus UI React is built on a foundation of cutting-edge frontend tools, including Radix UI and Tailwindcss. Leveraging the power of   Tailus Themer, it offers intuitive theme customization, ensuring your designs seamlessly reflect your brand identity.
 </p>
 <br>
-<p align="center"> <a href="https://beta.tailus.io/demo"> Try it now ! </a> </p>
+<a href="https://beta.tailus.io/demo" style="padding:0.5rem 1.5rem; background:black; color:white"> Try it now ! </a>
 <br> <br>
 
 Here's what sets Tailus UI React apart:
